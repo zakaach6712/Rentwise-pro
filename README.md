@@ -17,3 +17,6 @@ A CLI‑based rental and property management tool built with Python, SQLAlchemy 
 git clone <your-repo-url>
 cd rentwise_pro
 pip install -r requirements.txt
+
+
+video link [https://drive.google.com/file/d/1U3tWuz3cJV1LtFPCg0yP4EigjAU67wvV/view?usp=sharing] 
