@@ -18,7 +18,4 @@ git clone <your-repo-url>
 cd rentwise_pro
 pip install -r requirements.txt
 
-
-
-
-link [text](https://drive.google.com/file/d/1U3tWuz3cJV1LtFPCg0yP4EigjAU67wvV/view?usp=sharing)
+[Link Text](https://drive.google.com/file/d/1RdFh1SUXLkGmGpEHJMr2nMJF-JiKVhGl/view?usp=sharing)
